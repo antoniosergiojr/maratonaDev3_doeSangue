@@ -10,10 +10,11 @@ Web project developed at the event [Maratona Dev #3 - Rocketseat](https://rocket
 - ⚙ [Settings](#-settings)
 - 💻 [Technologies](#-technologies)
 - 🚀 [How to run](#-how-to-run)
-
 ---
+
 ## ⚙ Settings
-  Install the [PostgreSQL](https://www.postgresql.org/) and create database 'doe' and table 'donors' with columns 'id', 'name', 'email' and 'blood' (or open the script in the paste docs).
+  Install the [PostgreSQL](https://www.postgresql.org/) and create database 'doe' and table 'donors' with columns 'id', 'name', 'email' and 'blood' (or open the script in the   paste docs).
+  
 ---
 
 ## 💻 Technologies
