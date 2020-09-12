@@ -38,7 +38,7 @@ Web project developed at the event [Maratona Dev #3 - Rocketseat](https://rocket
   > Running web project
   ```bash
     # Accessing web project
-    cd maratonaDev_doeSangue
+    cd maratonaDev3_doeSangue
     
     # Install dependencies
     npm i
